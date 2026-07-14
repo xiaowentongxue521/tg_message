@@ -1,0 +1,1 @@
+##将tg上的消息可以直接转发到飞书，具体配置及方法参考config_template.yaml
