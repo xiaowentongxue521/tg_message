@@ -1,0 +1,4 @@
+telethon==1.37.0
+pyyaml==6.0.2
+httpx[socks]==0.28.1
+python-socks[asyncio]==2.7.1
